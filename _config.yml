@@ -130,7 +130,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://sm.ms/image/wlsExUVY52C78Kk # 头像的地址
+              img: https://i.loli.net/2020/10/28/wlsExUVY52C78Kk.jpg # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
                 href: /
@@ -509,7 +509,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var wechat = "wxp://f2f0pTSjqrEgvc1unHX0ky87j2iEIlf4-y3k";
                 var alipay = "https://qr.alipay.com/fkx183360ulakwgizvb9j0b";
                 var myname = "Ruka";
-                var profile = "https://sm.ms/image/wlsExUVY52C78Kk";
+                var profile = "https://i.loli.net/2020/10/28/wlsExUVY52C78Kk.jpg";
                 var multilingual = true;
                 var myname_hans = "Ruka";
                 var myname_hant = "Ruka";
