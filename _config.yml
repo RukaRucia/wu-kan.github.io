@@ -509,7 +509,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var wechat = "wxp://f2f0pTSjqrEgvc1unHX0ky87j2iEIlf4-y3k";
                 var alipay = "https://qr.alipay.com/fkx183360ulakwgizvb9j0b";
                 var myname = "Ruka";
-                var profile = "https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320";
+                var profile = "https://sm.ms/image/wlsExUVY52C78Kk";
                 var multilingual = true;
                 var myname_hans = "Ruka";
                 var myname_hant = "Ruka";
