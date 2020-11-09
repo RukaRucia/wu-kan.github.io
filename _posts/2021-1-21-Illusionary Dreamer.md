@@ -1,5 +1,5 @@
 ---
-title: Illusionary Dreamer
+title: 『Illusionary Dreamer』
 tags:
   - Illusionary Dreamer
 ---
@@ -7,13 +7,13 @@ tags:
 # Illusionary Dreamer
 
 
-    自我的少女眺望着窗外。
-    玻璃上没有映出景象。一切都是她眼中的倒影，一切都是她心中的推演。
-    
-    自始至终只有一人的永恒故事。
-    终点的前方，会迎来永久的安宁吗？
-    
-    舞台演出尚未结束。
+&emsp;&emsp;自我的少女眺望着窗外。<br>
+&emsp;&emsp;玻璃上没有映出景象。一切都是她眼中的倒影，一切都是她心中的推演。<br>
+    <br>
+&emsp;&emsp;自始至终只有一人的故事。<br>
+&emsp;&emsp;终点的前方，会迎来永远的安宁吗？<br>
+    <br>
+&emsp;&emsp;舞台演出尚未结束。
 
 ---
 
@@ -51,6 +51,7 @@ tags:
         只是想要找到认同自己的方法。只是，想要成为能够昂首挺胸，自称是主人公的主人公。
         所以，梦想绝不会被夺走。
 
+- 【Locking……】
 
 ---
 
