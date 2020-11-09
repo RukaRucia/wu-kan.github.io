@@ -1,5 +1,5 @@
 ---
-title: 『Illusionary Dreamer』
+title: Illusionary Dreamer
 tags:
   - Illusionary Dreamer
 ---
