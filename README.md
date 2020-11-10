@@ -2,9 +2,8 @@
 
 ---
 
-- **[【镜界秘抄】](https://luciasnote.space/_posts/2020-12-24-%E9%95%9C%E5%AF%86/)**
-
-- **[【Illusionary Dreamer】](https://luciasnote.space/_posts/2021-01-21-Illusionary-Dreamer/)**
+### **[【镜界秘抄】](https://luciasnote.space/_posts/2020-12-24-%E9%95%9C%E5%AF%86/)**
+### **[【Illusionary Dreamer】](https://luciasnote.space/_posts/2021-01-21-Illusionary-Dreamer/)**
 
 
 ---
