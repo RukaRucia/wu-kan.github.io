@@ -1,5 +1,5 @@
 ---
 layout: character
-title: 归档
+title: 角色
 permalink: /character/
 ---
