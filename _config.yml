@@ -138,7 +138,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 href: /tags/
               - title: '<i class="fas fa-archive fa-fw"></i> Archive/归档'
                 href: /archive/
-              - title: '<i class="fas fa-comments fa-fw"></i> About&Comment/简介&留言板'
+              - title: '<i class="fas fa-comments fa-fw"></i> About/简介&留言版'
                 href: /comments/
               - title: '<i class="fas fa-coffee fa-fw"></i> Tip/打赏'
                 href: /merger/
