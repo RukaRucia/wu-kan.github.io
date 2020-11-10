@@ -28,4 +28,3 @@
 ---
 
 - 【预告】12.24 『景色观察记录』&『景色革命』计划公开
-<span style="color:#66ccff; background-color:#66ccff;">黑幕下的文字</span>
