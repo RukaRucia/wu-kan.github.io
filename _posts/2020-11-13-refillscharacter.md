@@ -1,7 +1,6 @@
 ---
 title: 『Refills～在异世界身为天才魔法使的生存方式～』 角色介绍
 tags:
-  - 角色介绍
   - Refills
 ---
 
