@@ -581,7 +581,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 plugins: [ RevealMarkdown ]
               });
             "></script>
-
 }
 compress_html: # <https://github.com/penibelst/jekyll-compress-html>
   clippings: all
