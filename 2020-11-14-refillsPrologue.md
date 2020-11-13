@@ -14,30 +14,30 @@ tags:
 <br>&emsp;&emsp;梦想、睡梦、白日梦、清醒梦……怎样的梦都是奇妙的体验。尽管在梦中不见得都会愉快，可醒来之后总是回味无穷，我喜欢这种感觉。
 <br>&emsp;&emsp;“蕾娜！该起床了！！”
 <br>&emsp;&emsp;所以，母亲的怒吼被我抛在了脑后。闲适的周末对高中生来说不可多得，按掉闹钟又是一个好觉。
-<i><center>&emsp;&emsp;『客观来说，存在是伪命题』</center></i>
+<i><center>『客观来说，存在是伪命题』</center></i>
 <br>&emsp;&emsp;具体梦到了什么，总是在醒来的一瞬间就忘得一干二净。到最后，常常只记得自己做了个梦，却说不上来梦的内容。
-<br>&emsp;&emsp;<i><center>『请想一想，构成一个人的是什么呢』</center></i>
+<br><i><center>『请想一想，构成一个人的是什么呢』</center></i>
 <br>&emsp;&emsp;意识逐渐开始清晰，于是耳边的哭声越发响亮。
 <br>&emsp;&emsp;干脆就让我醒来吧。醒来，回味一下温暖的被窝，然后起床，回归现实，做该做的事情。
-<br>&emsp;&emsp;<i><center>『情感、记忆、人格，除此之外还有什么』</center></i>
+<br><i><center>『情感、记忆、人格，除此之外还有什么』</center></i>
 <br>&emsp;&emsp;但是眼皮一点也抬不起来。该不会，是鬼压床？
-<br>&emsp;&emsp;<i><center>『不知前后、不知死生——徘徊在现实和梦境之间的人』</center></i>
+<br><i><center>『不知前后、不知死生——徘徊在现实和梦境之间的人』</center></i>
 <br>&emsp;&emsp;想醒却醒不过来。梦魇将我包围，然后把什么东西从我的身体里扯了出去。
 <br>&emsp;&emsp;说失去的是器官也不太对劲。我一点也不觉得痛，反而对它有种亲切的感觉。
 <br>&emsp;&emsp;假设说——我是说，假设。假设一个人根本不是从梦中醒来，而是梦见自己从梦中醒来，又将如何？
-<br>&emsp;&emsp;<i><center>『这样的你，一定最适合扮演那个角色』</center></i>
+<br><i><center>『这样的你，一定最适合扮演那个角色』</center></i>
 <br>&emsp;&emsp;那个女人还在哭。一边哭，一边呼唤着我的名字。
 <br>&emsp;&emsp;——蕾娜，蕾娜。
-<br>&emsp;&emsp;<i><center>『所以就让我看看你的潜力吧』</center></i>
+<br><i><center>『所以就让我看看你的潜力吧』</center></i>
 <br>&emsp;&emsp;陌生的女人声音呼唤着我，还有人在摇晃我的肩膀。
 <br>&emsp;&emsp;听说鬼压床这种现象，只要有外力叫醒当事人就不至于死亡。
 <br>&emsp;&emsp;也就是说，我不会死。
-<br>&emsp;&emsp;<i><center>『你编织出的故事，我将之命名为——』</center></i>
-<br>&emsp;&emsp;
+<br><i><center>『你编织出的故事，我将之命名为——』</center></i>
+<br>
 
 # <center> <b>Refills～在异世界身为天才魔法使的生存方式～</center></b>
 
-<br>&emsp;&emsp;
+<br>
 
 ## ◇ Prologue 混沌之间的感官～Dream in～
 
@@ -51,7 +51,7 @@ tags:
 <br>&emsp;&emsp;我刚刚好像发出了惊人的低音——一般情况而言，女高中生不会拥有这种嗓音。
 <br>&emsp;&emsp;丢下水晶球残骸，我想轻轻推开哭泣的女人，但失败了。无计可施，我于是只好隔看她的臂膀摸了下自己的喉咙。
 <br>&emsp;&emsp;硬的。有块骨头突出来了。这到底是什么状况？
-<br>&emsp;&emsp;<br>&emsp;&emsp;低头一看，麻烦的胸脯不见了。
+<br>&emsp;&emsp;低头一看，麻烦的胸脯不见了。
 <br>&emsp;&emsp;可能是还没睡醒。想到这里，我狠狠地扇了自己一耳光。
 <br>&emsp;&emsp;“雷纳？！雷纳你别这样！！快和妈妈说句话好吗……”
 <br>&emsp;&emsp;“……妈，妈？”
