@@ -34,7 +34,7 @@ tags:
 <br><i><center>『你编织出的故事，我将之命名为——』</center></i>
 <br>
 
-# <center> <b>Refills～在异世界身为天才魔法使的生存方式～</center></b>
+# <center><b>Refills～在异世界身为天才魔法使的生存方式～</center></b>
 
 <br>
 
@@ -61,4 +61,4 @@ tags:
 
 ---
 
-[▶Next]
+[▶Next](https://luciasnote.space/_posts/2020-11-14-refillsCH1/)
