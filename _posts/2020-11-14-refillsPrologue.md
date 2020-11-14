@@ -37,7 +37,7 @@ tags:
 <br>&emsp;&emsp;听说鬼压床这种现象，只要有外力叫醒当事人就不至于死亡。
 <br>&emsp;&emsp;也就是说，我不会死。
 
-<center><i>『你编织出的故事，我将之命名为——』</i><br>
+<center><i>『你编织出的故事，我将之命名为——』</i></center><br>
 <br>
 <br>
 <br>
