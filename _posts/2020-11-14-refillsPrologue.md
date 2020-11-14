@@ -39,8 +39,6 @@ tags:
 
 <center><i>『你编织出的故事，我将之命名为——』</i></center><br>
 <br>
-
-
 # <b>Refills<br>～在异世界身为天才魔法使的生存方式～</b>
 
 <br>
