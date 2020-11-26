@@ -13,7 +13,7 @@
 
 - 【速报】10.31 [『箱庭的侦探不相信●● ①-Enumeration algorithm-』](https://luciasnote.space/_posts/2020-10-31-%E7%AE%B1%E4%BE%A61%E7%9B%AE%E5%BD%95/)全文公开
 
-- 【速报】11.14 [『Refills～在异世界身为天才魔法使的生存方法～』](https://luciasnote.space/_posts/2020-11-14-Refills%E6%B1%87%E6%80%BB%E9%A1%B5/)11.19 更新Chapter.1 #2
+- 【速报】11.14 [『Refills～在异世界身为天才魔法使的生存方法～』](https://luciasnote.space/_posts/2020-11-14-Refills%E6%B1%87%E6%80%BB%E9%A1%B5/)11.26 更新Chapter.1 #2
 
 ---
 ---
