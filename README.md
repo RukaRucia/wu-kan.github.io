@@ -11,7 +11,7 @@
 
 ---
 
-- 【速报】 [『Refills～在异世界身为天才魔法使的生存方法～』](https://luciasnote.space/_posts/2020-11-14-Refills%E6%B1%87%E6%80%BB%E9%A1%B5/)12.10 更新Chapter.1 #3
+- 【速报】 [『Refills～在异世界身为天才魔法使的生存方法～』](https://luciasnote.space/_posts/2020-11-14-Refills%E6%B1%87%E6%80%BB%E9%A1%B5/)12.10 更新Chapter.1 #4
 
 ---
 ---
