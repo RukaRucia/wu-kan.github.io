@@ -38,7 +38,7 @@ tags:
         世界的发条看着世界。世界的荆棘之冠说着救世。
 
 
-- [『Refills～身为异世界天才魔法使的生存方法～』](https://luciasnote.space/_posts/2020-11-14-Refills%E6%B1%87%E6%80%BB%E9%A1%B5)【11.18 连载开始】
+- [『Refills～身为异世界天才魔法使的生存方法～』](https://luciasnote.space/_posts/2020-11-14-Refills%E6%B1%87%E6%80%BB%E9%A1%B5)【连载中】
 
         早已种下的种子发芽。
         把憧憬已久的生存方法抓在手中，去弥补过错，去填满空虚。
