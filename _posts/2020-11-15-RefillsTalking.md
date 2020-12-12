@@ -369,6 +369,6 @@ tags:
 
 ---
 
-▼【『Talking in Goddess’s room～异世界电话亭～』 第四回 下下周放送】
+▼【『Talking in Goddess’s room～异世界电话亭～』 第四回 12.19放送】
 
 ---
