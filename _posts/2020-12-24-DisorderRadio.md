@@ -19,6 +19,7 @@ tags:
    （注：邮箱在边栏的头像背后。）
 
 
+- 放送
 
-**第一回的主题是 『冬天/圣诞节』**
+    [第一回](https://luciasnote.space/_posts/2020-12-24-Disorder-Radio-1/)
 
