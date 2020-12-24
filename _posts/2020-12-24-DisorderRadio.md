@@ -19,7 +19,13 @@ tags:
    （注：邮箱在边栏的头像背后。）
 
 
+
+- 征集
+
+     2月的主题是『恋爱观』。请来点恋爱相谈！
+
+
 - 放送
 
-    [第一回](https://luciasnote.space/_posts/2020-12-24-Disorder-Radio-1/)
+    [【第一回】](https://luciasnote.space/_posts/2020-12-24-Disorder-Radio-1/)
 
