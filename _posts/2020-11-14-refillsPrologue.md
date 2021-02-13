@@ -32,7 +32,7 @@ tags:
 <br>&emsp;&emsp;那个女人还在哭。一边哭，一边呼唤着我的名字。
 <br>&emsp;&emsp;——蕾娜，蕾娜。
 
-<i><center>『所以就让我看看你的潜力吧』</center></i>
+<i><center>『所以就让我看看你的■■吧』</center></i>
 <br>&emsp;&emsp;陌生的女人声音呼唤着我，还有人在摇晃我的肩膀。
 <br>&emsp;&emsp;听说鬼压床这种现象，只要有外力叫醒当事人就不至于死亡。
 <br>&emsp;&emsp;也就是说，我不会死。
