@@ -40,13 +40,12 @@ tags:
 <center><i>『你编织出的故事，我将之命名为——』</i></center><br>
 <br>
 # <b>Refills</b>
-<center><br>～在异世界身为天才魔法使的生存方式～</center>
+<center>～在异世界身为天才魔法使的生存方式～</center>
 
 <br>
 
-## ◇ Prologue 
-
-<center><br>混沌之间的感官～Dream in～</center>
+## <b>◇ Prologue</b>
+<center>混沌之间的感官～Dream in～</center>
 
 <br>&emsp;&emsp;成功夺回身体的控制权，我猛地睁开眼。
 <br>&emsp;&emsp;眼前的景象十分陌生。不是靠床的窗，也不是空白的陈旧天花板。
