@@ -11,7 +11,7 @@
 
 ---
 
-- 【速报】 [『Refills～在异世界身为天才魔法使的生存方法～』](https://luciasnote.space/_posts/2020-11-14-Refills%E6%B1%87%E6%80%BB%E9%A1%B5/)绝赞再版中！PDF预览实装预定！
+- 【速报】 [『Refills～在异世界身为天才魔法使的生存方法～』](https://luciasnote.space/_posts/2020-11-14-Refills%E6%B1%87%E6%80%BB%E9%A1%B5/)4月1日特别版公开！
 
 
 - 【活动】 [『Disorder Radio』](https://luciasnote.space/_posts/2020-12-24-DisorderRadio/)3.14第三回放送！下回来信征集中！
