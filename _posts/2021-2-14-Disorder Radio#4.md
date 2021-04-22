@@ -291,10 +291,9 @@ Elias「所以很多是哪些？」<br>
 Elias「嗯。」<br>
 Elias「不要在意。这个人有时候就是这样的。嗯。」<br>
 Elias「说了等于没说也很正常」<br>
-雪弥『喂』<br><br><br>
-
-# 【Disorder Radio 第四回】
-<br><br><br>
+雪弥『喂』<br><br>
+# 【Disorder Radio 第四回】Deja Vu
+<br><br>
 雪弥『但是你为什么不重新做自我介绍？』<br>
 Elias「因为没必要啊。相比之下。」<br>
 雪弥『嗯……』<br>
@@ -360,11 +359,10 @@ Elias「想点办法解释一下这种极其不合理，偶尔会有的莫名其
 雪弥『激素失调』<br>
 Elias「看来总有一天得想点办法把轮回转生之类的生死观当成讨论主题才行，在这里飞太远好像不合适。」<br>
 雪弥『嗯。』
-
 <br>
+<br>
+# 【Disorder Radio 第四回】新型课题
 <br><br>
-# 【Disorder Radio 第四回】
-<br><br><br>
 Elias「那么在完全不disorder的一回结束之前，还有什么想说的吗？」<br>
 雪弥『对了，之前被给到一个课题』<br>
 雪弥『说是要我们在这里回答？』<br>
