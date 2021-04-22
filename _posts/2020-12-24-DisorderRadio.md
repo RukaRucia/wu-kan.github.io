@@ -22,7 +22,7 @@ tags:
 
 - 征集
 
-     4月的主题是『怀念的事情』。回忆青春（？）吧。
+     5月的主题是『享受生活的方法』。黄金周之后当然是五月病。
 
 
 - 放送
@@ -36,3 +36,4 @@ tags:
     [【第三回】](https://luciasnote.space/_posts/2021-03-14-Disorder-Radio-3/)
     
 
+    [【第四回】](https://luciasnote.space/_posts/2021-04-14-Disorder-Radio-4/)
