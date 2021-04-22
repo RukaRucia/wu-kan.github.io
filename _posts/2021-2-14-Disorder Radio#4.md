@@ -408,7 +408,7 @@ Elias「赶紧吃你的。」<br>
 
 <br><br>
 
-Omake
+Omake<br>
 雪弥『那“教授”是什么？』<br>
 Elias「很高级的教大学以上的学生的老师。」<br>
 雪弥『这样啊』<br>
